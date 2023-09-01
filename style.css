@@ -1,0 +1,16 @@
+.box {
+    width: 100px;
+    background: #141516;
+    height: 100px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.container {
+    border: 1px solid red;
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    justify-items: center;
+    justify-content: center;
+
+}
