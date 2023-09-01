@@ -12,5 +12,6 @@
     grid-template-columns: repeat(3, 33%);
     justify-items: center;
     justify-content: center;
+    color: #fff
 
 }
